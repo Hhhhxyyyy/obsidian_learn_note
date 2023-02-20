@@ -1,15 +1,15 @@
 {
-  "commitMessage": "vault backup: {{date}}",
-  "autoCommitMessage": "vault backup: {{date}}",
+  "commitMessage": "Hxy backup: {{date}}",
+  "autoCommitMessage": "auto Hxy backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 0,
+  "autoSaveInterval": 5,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
-  "autoPullOnBoot": false,
-  "disablePush": false,
+  "autoPullOnBoot": true,
+  "disablePush": true,
   "pullBeforePush": true,
   "disablePopups": false,
-  "listChangedFilesInMessageBody": false,
+  "listChangedFilesInMessageBody": true,
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
@@ -24,5 +24,5 @@
   "refreshSourceControlTimer": 500,
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false,
-  "gitDir": "https://github.com/Hhhhxyyyy/Hxy-Obsidian-Sync.git"
+  "gitDir": ""
 }
