@@ -104,5 +104,4 @@ Linux 发行版主要有三大家族：
 
 `pwd`, `print working directory` 输出当前文件夹/当前工作目录
 
-try this
 
