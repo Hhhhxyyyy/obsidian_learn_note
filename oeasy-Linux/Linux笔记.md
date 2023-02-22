@@ -159,3 +159,15 @@ proc 指的是 process 进程，该文件夹内同步了内存中的进程
 `ps` ProcesseS 查询进程
 
 ![](photo%20for%20Linux/L6-1.jpg)
+
+`ps -ef` 后列出了所有的进程，分析该表的列名：
+
+- UID 用户ID，输出用户名
+- PID 进程ID
+- PPID 父亲进程ID
+- C 进程占用CPU的百分比
+- STIME 进程启动刀现在的时间
+- TTY 该进程在哪个终端运行（若无关则显示？，若为pts/0等，则表示由网络连接主机进程）
+- CMD 命令的名称和参数
+
+`ps aux`
