@@ -97,6 +97,7 @@ Linux 发行版主要有三大家族：
 可以查看这两个发行版的具体信息
 
 ## lesson 6 我在哪  \_pwd
+### 正文
 
 `cd`, `change directory` 跳转命令
 
@@ -152,7 +153,7 @@ pwd
 
 ![](photo%20for%20Linux/L6-3.png)
 
-proc 指的是 process 进程，该文件夹内同步了内存中的进程
+proc 指的是 process 进程，该文件夹内同步了内存中的进程，蓝色数字表示对应ID的进程 
 
 查看当前所有进程
 
@@ -208,6 +209,13 @@ STAT 为进程状态
 - Z  僵尸进程
 - +  位于后台的进程组
 
-回到 /proc ，利用 `ls` 查看目录内容
+
 
 ![](photo%20for%20Linux/L6-3.png)
+
+### 总结
+
+路径操作
+
+- `cd`, `change directory` 跳转命令
+- `pwd`, `print working directory` 输出当前文件夹/当前工作目录
