@@ -162,6 +162,7 @@ proc 指的是 process 进程，该文件夹内同步了内存中的进程
 
 `ps -ef` 后列出了所有的进程，分析该表的列名：
 
+```
 - UID 用户ID，输出用户名
 - PID 进程ID
 - PPID 父亲进程ID
@@ -169,6 +170,7 @@ proc 指的是 process 进程，该文件夹内同步了内存中的进程
 - STIME 进程启动刀现在的时间
 - TTY 该进程在哪个终端运行（若无关则显示？，若为pts/0等，则表示由网络连接主机进程）
 - CMD 命令的名称和参数
+```
 
 `ps aux`
 
@@ -176,14 +178,18 @@ proc 指的是 process 进程，该文件夹内同步了内存中的进程
 
 `ps aux` 同样列出了所有的进程，但显示内容和侧重与 `ps -ef` 的不同，分析该表的列名：
 
+```
 - USER 用户名
 - PID 进程ID
 - %CPU CPU百分比
 - %MEM 内存占用百分比
-- VSZ 该进程shi'yo
-- RSS
-- TTY
-- STAT
-- START
-- TIME
-- COMMAND
+- VSZ 该进程使用的虚拟内存量（KB）
+- RSS 该进程占用的固定内存量（KB）（驻留中页的数量）
+- TTY 该进程在哪个终端运行
+- STAT 进程的状态
+- START 该进程被触发启动的时间
+- TIME 该进程的CPU使用时间
+- COMMAND 命令的名称
+```
+
+STAT 为进程状态
