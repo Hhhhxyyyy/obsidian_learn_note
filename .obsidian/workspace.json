@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8187cdb355ff2fe1",
@@ -149,7 +148,7 @@
       "publish:发布更改": false
     }
   },
-  "active": "7daa3c34f43ecbf9",
+  "active": "47e0aaa898b2419f",
   "lastOpenFiles": [
     "oeasy-Linux/photo for Linux/L6-1.jpg",
     "oeasy-Linux/Linux笔记.md",

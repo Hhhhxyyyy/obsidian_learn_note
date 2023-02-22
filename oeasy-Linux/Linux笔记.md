@@ -171,3 +171,19 @@ proc 指的是 process 进程，该文件夹内同步了内存中的进程
 - CMD 命令的名称和参数
 
 `ps aux`
+
+![](photo%20for%20Linux/L6-2.png)
+
+`ps aux` 同样列出了所有的进程，但显示内容和侧重与 `ps -ef` 的不同，分析该表的列名：
+
+- USER 用户名
+- PID 进程ID
+- %CPU CPU百分比
+- %MEM 内存占用百分比
+- VSZ 该进程shi'yo
+- RSS
+- TTY
+- STAT
+- START
+- TIME
+- COMMAND
