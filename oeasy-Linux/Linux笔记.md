@@ -104,4 +104,19 @@ Linux 发行版主要有三大家族：
 
 `pwd`, `print working directory` 输出当前文件夹/当前工作目录
 
+```
+cd /boot 
+ls
+pwd
+```
+
+我们进入根目录下的 /boot 文件夹
+
+> Linux系统在本地启动时，目录/boot/非常重要，其中的文件和目录有
+> （1）系统Kernel的配置文件；
+> （2）启动管理程序GRUB的目录，里面存放的都是GRUB在启动时所需要的画面、配置及各阶段（stage1, stage1.5, stage 2）的文件。
+> （3）Initrd文件，是系统启动时的模块供应的主要来源
+>
+
+shell 
 
