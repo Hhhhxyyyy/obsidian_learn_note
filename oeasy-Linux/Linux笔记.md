@@ -96,7 +96,7 @@ Linux 发行版主要有三大家族：
 
 可以查看这两个发行版的具体信息
 
-## lesson 6 我在哪  \_pwd
+## lesson 6 我在哪  pwd
 ### 正文
 
 `cd`, `change directory` 跳转命令
@@ -210,7 +210,6 @@ STAT 为进程状态
 - +  位于后台的进程组
 
 
-
 ![](photo%20for%20Linux/L6-3.png)
 
 ### 总结
@@ -219,3 +218,30 @@ STAT 为进程状态
 
 - `cd`, `change directory` 跳转命令
 - `pwd`, `print working directory` 输出当前文件夹/当前工作目录
+
+进程文件夹 /proc
+
+查看进程
+
+- `ps -ef`
+- `ps aux`
+
+**预告**：/proc 中的
+
+- version
+- dmazoneinfo
+- cpuinfo
+
+## lesson 7 灵魂之问 whatis
+
+### 正文
+
+/proc 中的
+
+- version
+- dmazoneinfo
+- cpuinfo
+
+是干什么的
+
+### 总结
