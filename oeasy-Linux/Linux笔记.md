@@ -157,3 +157,5 @@ proc 指的是 process 进程，该文件夹内同步了内存中的进程
 `ps -ef`
 
 `ps` ProcesseS 查询进程
+
+![](photo%20for%20Linux/L6-1.jpg)
