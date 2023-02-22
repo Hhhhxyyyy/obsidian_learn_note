@@ -145,8 +145,17 @@ shell：用户间接操作内核的界面，从而能控制硬件进行io读写
 
 ```
 cd /proc
+ls
 cat meminfo
 pwd
 ```
 
-proc 指的是 process 进程，该文件夹内的内容是
+proc 指的是 process 进程，该文件夹内同步了内存中的进程
+
+查看当前所有进程
+
+`ps -ef`
+
+`ps` ProcesseS 查询进程
+
+![L6-1]()
