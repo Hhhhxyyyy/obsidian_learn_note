@@ -149,4 +149,4 @@ cat meminfo
 pwd
 ```
 
-
+proc 指的是 process 进程
