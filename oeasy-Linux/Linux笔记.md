@@ -154,9 +154,9 @@ proc 指的是 process 进程，该文件夹内同步了内存中的进程
 
 查看当前所有进程
 
-`ps -ef`
+`ps` Process Status 进程状态，显示执行命令时的进程快照
 
-`ps` ProcesseS 查询进程
+`ps -ef`
 
 ![](photo%20for%20Linux/L6-1.jpg)
 
