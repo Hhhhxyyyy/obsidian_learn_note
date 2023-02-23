@@ -261,11 +261,24 @@ cat cpuinfo
 
 新命令：`whatis` 可以查看其他命令的作用
 
+`whatis` + 命令名
+
 ```
 whatis pwd
 whatis cat
 whatis whatis
 ```
+
+![](photo%20for%20Linux/L7-3.png)
+
+### 总结
+
+`cat` 连结文件，将内容输出为标准输出流
+`whatis` 查看命令作用
+
+## lesson 8 详查手册 man
+
+### 正文
 
 
 
