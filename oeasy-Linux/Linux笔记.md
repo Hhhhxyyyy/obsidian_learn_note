@@ -242,6 +242,15 @@ STAT 为进程状态
 - dmazoneinfo
 - cpuinfo
 
-可以li
+可以利用 `cat` 命令查看，命令 `cat` 可以将里边的内容输出到标准输出流
+
+```
+cd /proc
+ls
+cat cpuinfo
+```
+
+![](photo%20for%20Linux/L7-1.png)
+
 
 ### 总结
