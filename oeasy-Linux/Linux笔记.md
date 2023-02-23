@@ -255,6 +255,18 @@ cat cpuinfo
 
 如何查看所有命令呢
 
-`bash` 切换到 bash 状态，连续按两下 `tab`，选择 yes，就可以看到所有的命令总量，大概条数在1900+，
+`bash` 切换到 bash 状态，连续按两下 `tab`，选择 yes，就可以看到所有的命令总量，大概条数在1900+，后可按 `ctrl + c` 退出，`zsh` 切换回 zsh 状态
+
+![](photo%20for%20Linux/L7-2.png)
+
+新命令：`whatis` 可以查看其他命令的作用
+
+```
+whatis pwd
+whatis cat
+whatis whatis
+```
+
+
 
 ### 总结
