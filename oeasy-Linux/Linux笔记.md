@@ -280,6 +280,13 @@ whatis whatis
 
 ### 正文
 
+`whatis` 只能简单查看命令介绍，命令的细节通过 `man` 来查看
+
+`man` manual 查询手册
+
+`man` + 命令名称
+
+
 
 
 ### 总结
