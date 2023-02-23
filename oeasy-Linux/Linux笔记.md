@@ -253,4 +253,8 @@ cat cpuinfo
 ![](photo%20for%20Linux/L7-1.png)
 
 
+如何查看所有命令呢
+
+`bash` 切换到 bash 状态，连续按两下 `tab`，选择 yes，就可以看到所有的命令总量，大概条数在1900+，
+
 ### 总结
