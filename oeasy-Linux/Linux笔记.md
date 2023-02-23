@@ -242,6 +242,6 @@ STAT 为进程状态
 - dmazoneinfo
 - cpuinfo
 
-是干什么的
+可以li
 
 ### 总结
