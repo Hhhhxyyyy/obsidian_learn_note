@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "79d27fdf09e3d4f3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,16 +150,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "canvas:Create new canvas": false,
       "publish:发布更改": false
     }
   },
-  "active": "7daa3c34f43ecbf9",
+  "active": "79d27fdf09e3d4f3",
   "lastOpenFiles": [
     "oeasy-Linux/photo for Linux/L7-3.png",
     "oeasy-Linux/photo for Linux/Pasted image 20230223110607.png",
