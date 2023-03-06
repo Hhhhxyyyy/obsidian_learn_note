@@ -284,9 +284,14 @@ whatis whatis
 
 `man` manual 查询手册
 
-`man` + 命令名称，查看时 `h` help 能查看本说明的帮助，`q` quit 可以退出，``
+`man` + 命令名称，查看时 `h` help 能查看本说明的帮助，`q` quit 可以退出，`⬆️` 向上, `⬇️` 向下
 
 ![](photo%20for%20Linux/L8-1.png)
+
+可以使用 `/` 进行搜索
+
+![](photo%20for%20Linux/L8-2.png)
+
 
 
 ### 总结
