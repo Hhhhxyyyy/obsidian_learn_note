@@ -292,6 +292,18 @@ whatis whatis
 
 ![](photo%20for%20Linux/L8-2.png)
 
+查看 `cat` 的手册
+
+`man cat`
+
+![](photo%20for%20Linux/L8-3.png)
+
+`man` 命令共有三种翻页方式
+
+- `⬆️` 向上, `⬇️` 向下；
+- `k` 向上, `j` 向下； 与 vim 一致
+- `ctrl`+`f` 向下 forward 一页；`ctrl`+`b` 向上 backward 一页
+
 
 
 ### 总结
