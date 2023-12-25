@@ -28,7 +28,22 @@
 
 ### 输入输出
 
+#### 1. Cin, Cout 
 
+```
+cin >> a >> b;
+cout << a + b << endl;
+```
+
+#### 2. Scanf(), Printf()
+
+```
+scanf("%d%d", &a, &b);
+printf("a + b = %d", a + b);
+```
+
+`cin` 输入过滤空格
+`scanf` 输入不会过滤空格
 
 ### 表达式
 
