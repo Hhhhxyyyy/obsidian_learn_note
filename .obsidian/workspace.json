@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "oeasy-Linux/Linux笔记.md",
-                "mode": "source",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ea24e27b69837eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++ 基础.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "oeasy-Linux/Linux笔记.md",
+                "file": "C++ 基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "oeasy-Linux/Linux笔记.md",
+                "file": "C++ 基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "oeasy-Linux/Linux笔记.md"
+                "file": "C++ 基础.md"
               }
             }
           }
@@ -148,14 +161,15 @@
       "publish:发布更改": false
     }
   },
-  "active": "79d27fdf09e3d4f3",
+  "active": "6ea24e27b69837eb",
   "lastOpenFiles": [
+    "oeasy-Linux/Linux笔记.md",
+    "C++ 基础.md",
     "oeasy-Linux/photo for Linux/Pasted image 20230306102619.png",
     "oeasy-Linux/photo for Linux/L8-3.png",
     "oeasy-Linux/photo for Linux/L8-2.png",
     "oeasy-Linux/photo for Linux/L7-3.png",
     "oeasy-Linux/photo for Linux/Pasted image 20230223110607.png",
-    "oeasy-Linux/Linux笔记.md",
     "oeasy-Linux/photo for Linux/L6-3.png",
     "oeasy-Linux/photo for Linux/Pasted image 20230222215613.png",
     "oeasy-Linux/photo for Linux/L6-1.jpg",
