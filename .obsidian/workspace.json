@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++ 基础.md",
+                "file": "C++基础/C++ Grammer.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37e23f8fafc72892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++基础/C++ Grammer.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++ 基础.md",
+                "file": "C++基础/C++ Grammer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++ 基础.md",
+                "file": "C++基础/C++ Grammer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++ 基础.md"
+                "file": "C++基础/C++ Grammer.md"
               }
             }
           }
@@ -161,10 +173,12 @@
       "publish:发布更改": false
     }
   },
-  "active": "6ea24e27b69837eb",
+  "active": "37e23f8fafc72892",
   "lastOpenFiles": [
+    "C++基础/Practices.md",
+    "C++基础/C++ Grammer.md",
+    "C++基础",
     "oeasy-Linux/Linux笔记.md",
-    "C++ 基础.md",
     "oeasy-Linux/photo for Linux/Pasted image 20230306102619.png",
     "oeasy-Linux/photo for Linux/L8-3.png",
     "oeasy-Linux/photo for Linux/L8-2.png",
