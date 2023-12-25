@@ -17,8 +17,8 @@
     bool false/true 1B
     char 'c', '\n', ' ' 1B
     int  -2147483648 ~ 2147483647 4B
-    float 1.23, 2.5, 1.23*e12 6~7  4B
-    double 15 ~ 16位有效数字 8B
+    float 1.23, 2.5, 1.23e12 6~7位有效数字  4B
+    double 15~16位有效数字 8B
     
     long long -2^63 ~ 2^63-1 8B
     long double 18~19位有效数字; 12B 16B
