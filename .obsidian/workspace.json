@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e304bb4da286f1fa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,7 +191,7 @@
       "publish:发布更改": false
     }
   },
-  "active": "37e23f8fafc72892",
+  "active": "e304bb4da286f1fa",
   "lastOpenFiles": [
     "C++基础/Practices.md",
     "C++基础/C++ Grammer.md",
