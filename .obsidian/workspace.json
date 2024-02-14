@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "oeasy-Linux/Linux笔记.md",
-                "mode": "preview",
+                "file": "acwing-Linux/1. 常用文件管理命令.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "oeasy-Linux/Linux笔记.md",
+                "file": "acwing-Linux/1. 常用文件管理命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "oeasy-Linux/Linux笔记.md",
+                "file": "acwing-Linux/1. 常用文件管理命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "oeasy-Linux/Linux笔记.md"
+                "file": "acwing-Linux/1. 常用文件管理命令.md"
               }
             }
           }
@@ -170,8 +170,11 @@
   },
   "active": "79d27fdf09e3d4f3",
   "lastOpenFiles": [
-    "C++基础/C++ Grammer.md",
+    "oeasy-Python/Python笔记.md",
+    "acwing-Linux/1. 常用文件管理命令.md",
+    "acwing-Linux",
     "oeasy-Linux/Linux笔记.md",
+    "C++基础/C++ Grammer.md",
     "C++基础/Practices.md",
     "C++基础",
     "oeasy-Linux/photo for Linux/Pasted image 20230306102619.png",
@@ -183,7 +186,6 @@
     "oeasy-Linux/photo for Linux/Pasted image 20230222215613.png",
     "oeasy-Linux/photo for Linux/L6-1.jpg",
     "photo.md",
-    "未命名.canvas",
-    "oeasy-Python/Python笔记.md"
+    "未命名.canvas"
   ]
 }
