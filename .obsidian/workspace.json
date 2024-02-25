@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "acwing-Linux/1. 常用文件管理命令.md",
-                "mode": "source",
+                "file": "Computer Networking/CH1 计算机网络概述.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "acwing-Linux/1. 常用文件管理命令.md",
+                "file": "Computer Networking/CH1 计算机网络概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "acwing-Linux/1. 常用文件管理命令.md",
+                "file": "Computer Networking/CH1 计算机网络概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "acwing-Linux/1. 常用文件管理命令.md"
+                "file": "Computer Networking/CH1 计算机网络概述.md"
               }
             }
           }
@@ -168,11 +168,12 @@
       "publish:发布更改": false
     }
   },
-  "active": "47e0aaa898b2419f",
+  "active": "79d27fdf09e3d4f3",
   "lastOpenFiles": [
-    "Network",
-    "oeasy-Python/Python笔记.md",
     "acwing-Linux/1. 常用文件管理命令.md",
+    "Computer Networking/CH1 计算机网络概述.md",
+    "Computer Networking",
+    "oeasy-Python/Python笔记.md",
     "acwing-Linux",
     "oeasy-Linux/Linux笔记.md",
     "C++基础/C++ Grammer.md",
