@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Arrangement/Templates/未命名.md",
+                "file": "Personal Arrangement/Templates/001-Daily模板.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Arrangement/Templates/未命名.md",
+                "file": "Personal Arrangement/Templates/001-Daily模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Arrangement/Templates/未命名.md",
+                "file": "Personal Arrangement/Templates/001-Daily模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Arrangement/Templates/未命名.md"
+                "file": "Personal Arrangement/Templates/001-Daily模板.md"
               }
             }
           }
@@ -181,10 +181,10 @@
       "templates:插入模板": false
     }
   },
-  "active": "47e0aaa898b2419f",
+  "active": "597bb7b74c1639fb",
   "lastOpenFiles": [
     "计算机学习/acwing-Linux/1. 常用文件管理命令.md",
-    "Personal Arrangement/Templates/未命名.md",
+    "Personal Arrangement/Templates/001-Daily模板.md",
     "Personal Arrangement/Templates",
     "Personal Arrangement/Daily/2024/2024-03/2024-03-04_星期一.md",
     "Personal Arrangement/Daily/2024/2024-03",
