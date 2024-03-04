@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++基础/C++ Grammer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++基础/C++ Grammer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++基础/C++ Grammer.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -172,6 +169,7 @@
   "active": "47e0aaa898b2419f",
   "lastOpenFiles": [
     "acwing-Linux/1. 常用文件管理命令.md",
+    "未命名.md",
     "Computer Networking/CH1 计算机网络概述.md",
     "Computer Networking",
     "oeasy-Python/Python笔记.md",
