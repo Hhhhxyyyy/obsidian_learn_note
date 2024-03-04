@@ -19,8 +19,6 @@ let createTime = tp.file.creation_date()
 let modificationDate = tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss")
 -%>
  
- // 上述内容，运行后不会显示，下面的内容会显示，且变量值来自于上述代码
- 
 ---
 
 create time : <% createTime %>
@@ -33,23 +31,11 @@ modification date: <% modificationDate %>
 #### 重点关注
 -  ==早上 7 件事==
     - [ ] 花点时间回顾和反思
+    - [ ] 查看邮件
+    - [ ] 确定今日主要活动
+    - [ ] 布置任务，拆分为小目标
+    - [ ] 写下需要思考的东西
+    - [ ] 忽略人际关系冲突
+    - [ ] 屏幕时间4h内
+- ==注意效率！==
 
-<%*
-// 将文件移动到/Daily/目录下，并命名为titleName
-await tp.file.move("/Daily/" + titleName)
-// 运行后光标到运行后文件中
-tp.file.cursor()
--%>
-```
--%> 
-
---- 
-
-🌻日期🌻: <% tp.file.creation_date("YYYY MM DD HH:mm:ss") %> 
-🌙星期🌙: <% tp.file.creation_date("dddd") %> 
-⌚️时间⌚️: <% tp.file.creation_date("HH:mm:ss") %> 
-🌍位置🌍: <% 位置 %> 
-☁️天气☁️: <% 天气 %> 
-🌡️温度🌡️: <% 温度 %>
-
----
