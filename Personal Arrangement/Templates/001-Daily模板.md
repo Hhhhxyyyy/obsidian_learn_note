@@ -2,9 +2,6 @@
 
 ---
 <%* 
-let weatherUrl = 'https://restapi.amap.com/v3/weather/weatherInfo' 
-let key = 'YOUR_KEY' 
-
 let tencentIpUrl = 'https://apis.map.qq.com/ws/location/v1/ip'; 
 let tencentKey = 'F3DBZ-NFXRB-K7AUY-NRN44-B6CZF-2NBRD' 
 
