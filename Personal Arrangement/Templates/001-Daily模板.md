@@ -1,28 +1,46 @@
 ---
 
 ---
-<%* 
-let weatherUrl = 'https://restapi.amap.com/v3/weather/weatherInfo' 
-let key = 'YOUR_KEY' 
 
-let tencentIpUrl = 'https://apis.map.qq.com/ws/location/v1/ip'; 
-let tencentKey = 'F3DBZ-NFXRB-K7AUY-NRN44-B6CZF-2NBRD' 
+<%*
+// 按照年-月-日的格式，得到今天日期的变量（例如2023-03-07）
+let today = tp.date.now("YYYY-MM-DD")
+// 获取输入到inputDate
+let inputDate = await tp.system.prompt("输入示例："+today,today)
+// 格式化变量titleName成年-月-日_周几
+titleName = window.moment(inputDate, "YYYY-MM-DD", true).format("YYYY-MM-DD_ddd")
+// 获取昨天的日期（文件名以日期命名）
+before_date = window.moment(inputDate, "YYYY-MM-DD", true).add(-1,"days").format("YYYY-MM-DD_ddd")
+// 获取明天的日期（文件名以日期命名）
+after_date = window.moment(inputDate, "YYYY-MM-DD", true).add(1,"days").format("YYYY-MM-DD_ddd")
+// 获取当前文件创建时间
+let createTime = tp.file.creation_date()
+// 获取当前文件修改时间
+let modificationDate = tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss")
+-%>
+ 
+ // 上述内容，运行后不会显示，下面的内容会显示，且变量值来自于上述代码
+ 
+---
 
-let adcode = eval("(" + await request({url: tencentIpUrl + `?key=${tencentKey}`, method: "GET"}) + ")").result.ad_info.adcode console.log("adcode: " + adcode) 
-let 位置 = '' 
-let 天气 = '' 
-let 温度 = '' 
-let 风向 = '' 
-await fetch(weatherUrl + `?key=${key}&city=${adcode}&extensions=all`) 
-.then(res => res.json()) 
-.then((data) => { 
-	let info = data.forecasts[0] 
-	console.log("info:" + info) 
-	
-	位置 = info.province + '-' + info.city 
-	天气 = '🌅' + info.casts[0].dayweather + ' / 🌃' + info.casts[0].nightweather 
-	温度 = '🌅' + info.casts[0].daytemp_float + '℃' + '/ 🌃' + info.casts[0].nighttemp_float + '℃' 
-}) 
+create time : <% createTime %>
+modification date: <% modificationDate %>
+
+---
+
+<< [[<% before_date %>]] | [[<% after_date %>]] >>
+
+#### 重点关注
+-  ==早上 7 件事==
+    - [ ] 花点时间回顾和反思
+
+<%*
+// 将文件移动到/Daily/目录下，并命名为titleName
+await tp.file.move("/Daily/" + titleName)
+// 运行后光标到运行后文件中
+tp.file.cursor()
+-%>
+```
 -%> 
 
 --- 
