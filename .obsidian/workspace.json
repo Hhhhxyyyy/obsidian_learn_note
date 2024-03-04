@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8534b273b6c07c8a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,7 +179,7 @@
       "publish:发布更改": false
     }
   },
-  "active": "37e23f8fafc72892",
+  "active": "8534b273b6c07c8a",
   "lastOpenFiles": [
     "acwing-Linux/1. 常用文件管理命令.md",
     "Computer Networking/CH1 计算机网络概述.md",
