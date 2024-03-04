@@ -66,8 +66,15 @@ modification date: <% modificationDate %>
 - [ ] 2
 
 ## Daily Agenda
-**这是{{date:YYYY-MM-DD}}的日计划**
+**这是{{date:YYYY-MM-DD}}的日计划，根据TODO制订**
 
----
-
+### 上午
+- [ ] 6:00
+- [ ] 7:00
+### 下午
+- [ ] 13:00
+- [ ] 14:00
+### 晚上
+- [ ] 19:00
+- [ ] 22:30 睡觉
 
