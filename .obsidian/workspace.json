@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "acwing-Linux/1. 常用文件管理命令.md",
+                "file": "计算机学习/acwing-Linux/1. 常用文件管理命令.md",
                 "mode": "preview",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++基础/C++ Grammer.md",
+                "file": "计算机学习/C++基础/C++ Grammer.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,24 +168,26 @@
   },
   "active": "47e0aaa898b2419f",
   "lastOpenFiles": [
-    "acwing-Linux/1. 常用文件管理命令.md",
+    "Personal Agenda",
+    "计算机学习",
+    "计算机学习/acwing-Linux/1. 常用文件管理命令.md",
     "未命名.md",
-    "Computer Networking/CH1 计算机网络概述.md",
-    "Computer Networking",
-    "oeasy-Python/Python笔记.md",
-    "acwing-Linux",
-    "oeasy-Linux/Linux笔记.md",
-    "C++基础/C++ Grammer.md",
-    "C++基础/Practices.md",
-    "C++基础",
-    "oeasy-Linux/photo for Linux/Pasted image 20230306102619.png",
-    "oeasy-Linux/photo for Linux/L8-3.png",
-    "oeasy-Linux/photo for Linux/L8-2.png",
-    "oeasy-Linux/photo for Linux/L7-3.png",
+    "计算机学习/Computer Networking/CH1 计算机网络概述.md",
+    "计算机学习/Computer Networking",
+    "计算机学习/oeasy-Python/Python笔记.md",
+    "计算机学习/acwing-Linux",
+    "计算机学习/oeasy-Linux/Linux笔记.md",
+    "计算机学习/C++基础/C++ Grammer.md",
+    "计算机学习/C++基础/Practices.md",
+    "计算机学习/C++基础",
+    "计算机学习/oeasy-Linux/photo for Linux/Pasted image 20230306102619.png",
+    "计算机学习/oeasy-Linux/photo for Linux/L8-3.png",
+    "计算机学习/oeasy-Linux/photo for Linux/L8-2.png",
+    "计算机学习/oeasy-Linux/photo for Linux/L7-3.png",
     "oeasy-Linux/photo for Linux/Pasted image 20230223110607.png",
-    "oeasy-Linux/photo for Linux/L6-3.png",
+    "计算机学习/oeasy-Linux/photo for Linux/L6-3.png",
     "oeasy-Linux/photo for Linux/Pasted image 20230222215613.png",
-    "oeasy-Linux/photo for Linux/L6-1.jpg",
+    "计算机学习/oeasy-Linux/photo for Linux/L6-1.jpg",
     "photo.md",
     "未命名.canvas"
   ]
