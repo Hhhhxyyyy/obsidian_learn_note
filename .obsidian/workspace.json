@@ -162,22 +162,23 @@
       "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "publish:发布更改": false,
-      "daily-notes:打开/创建今天的日记": false
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false
     }
   },
   "active": "47e0aaa898b2419f",
   "lastOpenFiles": [
+    "Personal Arrangement/Templates",
     "Personal Arrangement/Daily/2024/2024-03/2024-03-04_星期一.md",
-    "未命名.md",
+    "计算机学习/acwing-Linux/1. 常用文件管理命令.md",
     "Personal Arrangement/Daily/2024/2024-03",
     "Personal Arrangement/Daily/2024",
+    "未命名.md",
     "Personal Arrangement/Daily",
     "Personal Arrangement",
     "计算机学习",
-    "计算机学习/acwing-Linux/1. 常用文件管理命令.md",
     "计算机学习/Computer Networking/CH1 计算机网络概述.md",
     "计算机学习/Computer Networking",
     "计算机学习/oeasy-Python/Python笔记.md",
