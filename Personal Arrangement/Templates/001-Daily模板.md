@@ -19,10 +19,8 @@ let modificationDate = tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss")
 -%>
  
 ---
-
 create time : <% createTime %>
 modification date: <% modificationDate %>
-
 ---
 
 << [[<% before_date %>]] | [[<% after_date %>]] >>
