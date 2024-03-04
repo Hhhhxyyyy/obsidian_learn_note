@@ -6,7 +6,7 @@ let weatherUrl = 'https://restapi.amap.com/v3/weather/weatherInfo'
 let key = 'YOUR_KEY' 
 
 let tencentIpUrl = 'https://apis.map.qq.com/ws/location/v1/ip'; 
-let tencentKey = 'YOUR_KEY' 
+let tencentKey = 'F3DBZ-NFXRB-K7AUY-NRN44-B6CZF-2NBRD' 
 
 let adcode = eval("(" + await request({url: tencentIpUrl + `?key=${tencentKey}`, method: "GET"}) + ")").result.ad_info.adcode console.log("adcode: " + adcode) 
 let 位置 = '' 
