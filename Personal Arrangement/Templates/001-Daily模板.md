@@ -1,7 +1,6 @@
 ---
 
 ---
-
 <%*
 // 按照年-月-日的格式，得到今天日期的变量（例如2023-03-07）
 let today = tp.date.now("YYYY-MM-DD")
@@ -66,7 +65,7 @@ modification date: <% modificationDate %>
 - [ ] 2
 
 ## Daily Agenda
-**这是{{date:YYYY-MM-DD}}的日计划，根据TODO制订**
+**这是 <% today %>的日计划，根据TODO制订**
 
 ### 上午
 - [ ] 6:00
@@ -78,3 +77,6 @@ modification date: <% modificationDate %>
 - [ ] 19:00
 - [ ] 22:30 睡觉
 
+## 复盘和总结
+- [ ] TODO all done
+#### 写写你的感想吧：
