@@ -1,23 +1,9 @@
 ---
 
 ---
-<%
-let today = tp.date.now("YYYY-MM-DD")
-let inputDate = await tp.system.prompt("输入示例："+today,today)
-titleName = window.moment(inputDate, "YYYY-MM-DD", true).format("YYYY-MM-DD_ddd")
-before_date = window.moment(inputDate, "YYYY-MM-DD", true).add(-1,"days").format("YYYY-MM-DD_ddd")
-after_date = window.moment(inputDate, "YYYY-MM-DD", true).add(1,"days").format("YYYY-MM-DD_ddd")
-let createTime = tp.file.creation_date()
-let modificationDate = tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss")
-%>
- 
----
-create time : <% createTime %>
-modification date: <% modificationDate %>
 ---
 
-<< [[<% before_date %>]] | [[<% after_date %>]] >>
-
+---
 #### 重点关注
 -  ==早上 7 件事==
     - [ ] 花点时间回顾和反思
@@ -56,7 +42,7 @@ modification date: <% modificationDate %>
 - [ ] 2
 
 ## Daily Agenda
-**这是 <% today %>的日计划，根据TODO制订**
+**这是 {{date}}的日计划，根据TODO制订**
 
 ### 上午
 - [ ] 6:00
