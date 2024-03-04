@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "59bed33c8d1813c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Arrangement/Daily/2024/2024-03/2024-03-04_星期一.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Arrangement/Templates/001-Daily模板.md",
+                "file": "Personal Arrangement/Daily/2024/2024-03/2024-03-04_星期一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Arrangement/Templates/001-Daily模板.md",
+                "file": "Personal Arrangement/Daily/2024/2024-03/2024-03-04_星期一.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Arrangement/Templates/001-Daily模板.md"
+                "file": "Personal Arrangement/Daily/2024/2024-03/2024-03-04_星期一.md"
               }
             }
           }
@@ -193,10 +205,11 @@
       "templates:插入模板": false
     }
   },
-  "active": "597bb7b74c1639fb",
+  "active": "59bed33c8d1813c5",
   "lastOpenFiles": [
-    "Personal Arrangement/Daily/2024/2024-03/2024-03-04_星期一.md",
     "Personal Arrangement/Templates/001-Daily模板.md",
+    "Personal Arrangement/Daily/2024/2024-03/2024-03-04_星期一.md",
+    "未命名.md",
     "教资学习/科目二刷题.md",
     "教资学习/科目二 教育知识与能力.md",
     "计算机学习/acwing-Linux/1. 常用文件管理命令.md",
